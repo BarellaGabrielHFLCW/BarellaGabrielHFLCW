@@ -1,0 +1,25 @@
+Navegação nivel usuário iniciante 
+
+Navega├º├úo
+
+C:\ = ir
+
+Cd diretorio = abre um sub-diretorio
+
+Dir = //Exibir diretorios//
+
+Mkdir= //Cria um diretorio//
+
+Rmdir= //Exclui diretorio//
+
+Copy= //Origem destino//
+
+Xcopy diretório c:\Destino /e= //Copia diretorios e subdiretórios comando /e-//
+
+taskkill /f /im nome do serviço /t
+
+tasklist =//lista serviços que estão sendo executados//
+
+del= //deleta um arquivo ou diretório//
+
+C:\Users\PrimitiveElefant\Documents\Gorp>type "naveg.txt"
