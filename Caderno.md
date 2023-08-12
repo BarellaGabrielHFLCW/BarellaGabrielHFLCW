@@ -1,6 +1,9 @@
 - (y) I look at you ...
-- 
+- C:\Users\PrimitiveElefant\Documents\Gorp>type "anotacoes kotlin.txt"
+Anotações sobre o Kotlin
+
+para quebra de uma string digite: \n
+
+C:\Users\PrimitiveElefant\Documents\Gorp>
 <!---
-BarellaGabrielHFLCW/BarellaGabrielHFLCW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+BarellaGabrielHFLCW/BarellaGabrielHFLCW 
